@@ -2,3 +2,4 @@
 data/*.csv
 Linux-related.ipynb
 encryptor.ipynb
+data/result/*.csv
